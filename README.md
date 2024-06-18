@@ -33,11 +33,4 @@ streamlit run chatapp.py
 
 The app will be up and running at localhost. Note that you can develop the application with this setup as the file changes will trigger a rebuild.
 
-## 📚 Examples
-
-**IMDB Page**
-
-| Original                                                                                                                                                        | Replica                                                                                                                                                         |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img width="1238" alt="D:\image.png" src=""> | <img width="1414" alt="D:\imdbexample.jpg" src=""> |
 
