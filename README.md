@@ -4,7 +4,7 @@ A simple tool to convert screenshots, sketches, and Figma designs into clean, fu
 
 
 
-https://github.com/HemangCodesAI/super-fishstick/assets/91689621/d1abe6d9-2315-414f-9449-548f274eb2a2
+
 
 
 Supported AI models:
@@ -39,11 +39,5 @@ The app will be up and running at localhost. Note that you can develop the appli
 
 | Original                                                                                                                                                        | Replica                                                                                                                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img width="1238" alt="Screenshot 2023-11-20 at 12 54 03 PM" src="https://github.com/HemangCodesAI/super-fishstick/blob/main/examples/image.png"> | <img width="1414" alt="Screenshot 2023-11-20 at 12 59 56 PM" src="https://github.com/HemangCodesAI/super-fishstick/blob/main/examples/imdbexample.jpg"> |
-
-**Portfolio Page**
-
-| Original                                                                                                                                                        | Replica                                                                                                                                                         |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img width="1238" alt="Screenshot 2023-11-20 at 12 54 03 PM" src="https://github.com/HemangCodesAI/super-fishstick/blob/main/examples/sample.jpg"> | <img width="1414" alt="Screenshot 2023-11-20 at 12 59 56 PM" src="https://github.com/HemangCodesAI/super-fishstick/blob/main/examples/sample%20example.jpg"> |
+| <img width="1238" alt="D:\image.png" src=""> | <img width="1414" alt="D:\imdbexample.jpg" src=""> |
 
